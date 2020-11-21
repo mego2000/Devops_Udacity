@@ -2,9 +2,9 @@
    "kind":"Service",
    "apiVersion":"v1",
    "metadata":{
-      "name":"bgDeploy",
+      "name":"bgdeploy",
       "labels":{
-         "app":"bgDeploy"
+         "app":"bgdeploy"
       }
    },
    "spec":{
